@@ -4,8 +4,7 @@ version: 0.3.0
 homepage: https://github.com/stevenosse/flutter_emoji_feedback
 
 environment:
-  sdk: '>3.1.5 <4.0.0'
-  flutter: ">=3.19.0"
+  sdk: ">=2.17.1 <3.0.0"
 
 dependencies:
   flutter:
